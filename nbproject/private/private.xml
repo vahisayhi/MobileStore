@@ -3,14 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/src/java/controller/admin/CategoryController.java</file>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/src/java/controller/auth/LogoutServlet.java</file>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/src/java/dao/BrandDAO.java</file>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/src/java/controller/admin/PhoneController.java</file>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/web/index.html</file>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/src/java/controller/auth/LoginServlet.java</file>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/web/login.jsp</file>
-            <file>file:/C:/Users/admin/Desktop/PRJ/Ass/MobileStore/src/java/controller/admin/UserController.java</file>
+            <file>file:/E:/prj_proj/MobileStore/web/login.jsp</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/controller/admin/OrderController.java</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/controller/admin/CategoryController.java</file>
+            <file>file:/E:/prj_proj/MobileStore/web/admin/dashboard.jsp</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/dao/UserDAO.java</file>
+            <file>file:/E:/prj_proj/MobileStore/web/admin/order_list.jsp</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/model/Role.java</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/dao/OrderDAO.java</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/model/Order.java</file>
+            <file>file:/E:/prj_proj/MobileStore/web/index.html</file>
+            <file>file:/E:/prj_proj/MobileStore/web/admin/header.jsp</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/controller/admin/PhoneController.java</file>
+            <file>file:/E:/prj_proj/MobileStore/web/admin/category_form.jsp</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/model/User.java</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/controller/admin/UserController.java</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/model/Category.java</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/utils/DBUtils.java</file>
+            <file>file:/E:/prj_proj/MobileStore/src/java/model/Phone.java</file>
         </group>
     </open-files>
 </project-private>

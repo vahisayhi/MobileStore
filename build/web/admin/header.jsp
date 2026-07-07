@@ -16,6 +16,7 @@
                         <li class="nav-item"><a class="nav-link" href="phone?action=list">Products</a></li>
                         <li class="nav-item"><a class="nav-link" href="category?action=list">Categories</a></li>
                         <li class="nav-item"><a class="nav-link" href="user?action=list">Users</a></li>
+                        <li class="nav-item"><a class="nav-link" href="order?action=list">Orders</a></li>
                     </ul>
                     <div class="d-flex text-light align-items-center">
                         <% User user = (User) session.getAttribute("LOGIN_USER");
